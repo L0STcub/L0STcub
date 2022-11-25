@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @L0STcub
+- 👋 Hi, I’m Digvijaya
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking forward to collaborate on IT Industries
